@@ -1,0 +1,77 @@
+# x = 6j
+
+
+# //complex  numbers : 3i + 7j + 9z
+# print(type(x))
+
+# x = int(23.9)
+# print(x)
+
+# x = int("R")
+# print(x)
+
+
+# Diff1. x = raw_input()
+#2 Diff   print("")      print ""
+# 3 Diff FOr Loop range  xrange
+
+
+# x = int("3")
+# print(x)
+
+# x = float("3")
+# print(x)
+
+
+# x= str(33.1)
+# print(x)
+
+
+# x = int(4) # 4
+# y = float(2.5)  # 2.5  
+
+# print("Sum Of this two is ",x+y)  # 4 + 2.5
+
+
+# x =int(4)
+# y=str(2.8)
+
+# print("Addition: ",x+y)
+
+# x = str("Royal")
+# y = str(" Technosoft")
+
+# # x = 50
+# # y = 10
+
+# print(x+y)
+
+
+
+
+# from hashlib import sha3_224
+
+
+# x = "s1"  # string
+# y = int(x)  
+
+# print(y)
+
+# z = 134
+# p = str(z)
+# q = float(z)
+# r = complex(z)   (134 + 0j)
+
+# print(p,q,r)
+
+
+# priyank = "I like Python" 
+
+# print(10 * priyank)
+
+
+# x = input("Enter Your Name: ")
+print("Enter Your Name: ")
+x = input()
+
+print("Hello, " + x)
